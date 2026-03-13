@@ -1,4 +1,4 @@
-# Rafael Fernandes
+# Rafael Matos Fernandes
 
 Exploring AI tools, automation and productivity systems.
 
